@@ -14,7 +14,7 @@
 - 目前还没有技术能力实现不同游戏检测以及游戏内不同枪械检测
 ### 😚路径模拟：
 like this: </br>
-![image](https://github.com/Mengbooo/pressureGun/assets/143786942/ce7adccd-ac64-4f7e-99d1-8ee0bc295fcb)
+![image](https://github.com/Mengbooo/pressureGun/assets/143786942/1f3d2174-233b-4476-8109-5bc19ad6d406)
 
 
 
