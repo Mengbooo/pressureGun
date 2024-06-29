@@ -14,3 +14,6 @@
 - 目前还没有技术能力实现不同游戏检测以及游戏内不同枪械检测
 ### 😚路径模拟：
 <img width="458" alt="image" src="https://github.com/Mengbooo/pressureGun/assets/143786942/16ac472c-25ba-4975-8a09-642914082a25">
+
+### 😎提示：
+` 供学习参考用，游戏内请酌情小心使用 ` 
